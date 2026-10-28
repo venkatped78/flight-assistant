@@ -282,8 +282,6 @@ search_history -- Analytics on searches
 
 ---
 
-## 📄 License
-MIT — Free to use and modify.
 
 ---
 **Built for AI/ML Engineers · Demonstrates production-grade Claude Tool Use application**
